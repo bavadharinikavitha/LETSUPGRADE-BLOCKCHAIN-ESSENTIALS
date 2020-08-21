@@ -1,0 +1,18 @@
+                                                  LETS UPGRADE BLOCKCHAIN ESSENTIALS
+
+1)what is blockchain in your words?
+                                                    A blockchain is a digital record of transactions.Blockchains are used for recording transactions made with cryptocurrencies.The name comes from its structure, in which individual records, called blocks, are linked together in single list, called a chain.
+  
+2)what was the need of blockchain?
+                                                       block chain is used for recording data base. blockchain allows Bitcoin and other cryptocurrencies to operate without the need for a central authority. 
+
+3)what is hash?and a small demo.
+                                                     A  Small demo is done and its pictures are attached to this file
+                             *A hash is a function that converts one value to another.  
+                             *A hash is a function that converts an input of letters and numbers into
+ an encrypted output of a fixed length.
+                             *A hash is created using an algorithm.
+                             *It is essential to blockchain management in cryptocurrency.
+                             *There are different types of algorithm in hashing 
+      one of the algorithm is
+                       SHA 256=secure  hashing algorithm 256
