@@ -1,0 +1,31 @@
+                                                            LETSUPGRADE ASSIGNMENT 
+                                                                   MY IDEAS ABOUT SOLIDITY 
+
+*solidity is a statically typed language
+*solidity provides several elementary types which combines to form complex types
+*a type of solidity is boolean 
+*in boolean the possible values are true and false
+SMART CONTRACTS
+
+There is a simple smart contract
+A contract in the sense of Solidity is a collection of code (its functions) and data (its state) that resides at a specific address on the Ethereum blockchain.
+
+SUBCURRENCY 
+ we have to put some contracts that forms a simplest form of cryptocurrency.
+
+ETHEREUM VIRUTUAL MACHINE 
+ 
+EVM is the runtime environment for smart contracts in ethereum.
+the code running in the EVM has no access to network ,filesystem or other processes.
+There are two kinds of accounts in ethereum which shares the same address space 
+they are:
+1.External accounts
+2.contract accounts
+EXTERNAL ACCOUNT 
+ This are controlled by public private key pairs
+CONTRACT ACCOUNTS
+ this are controlled by the code stored together with account
+Every account has a persistent key-value store mapping 256-bit words to 256-bit words called storage.
+TRANSACTIONS
+A transaction is a message that is sent from one account to another account.
+
